@@ -24,9 +24,11 @@ body{
     text-align: center;
     padding-top: 1.5rem;
     text-transform: uppercase;
-    margin-top: 110px;
+    margin-top: 180px;
 }
-
+#moi .h2{
+    margin-top:0px;
+}
 .container{
     height: 100vh;
 }
@@ -85,6 +87,7 @@ body{
         text-align: center;
         height: 100vh;
     }
+
 
     #moi .mobile h4{
         font-size: 20px;
